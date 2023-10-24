@@ -17,7 +17,7 @@ class Myapp extends StatelessWidget {
               children: [
                 SizedBox(height: 50,),
                 CircleAvatar(
-                  radius: 90,
+                  radius: 50,
                   backgroundImage: AssetImage('images/img.png'),
                 ),
                 SizedBox(height: 20),
